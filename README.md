@@ -2,9 +2,7 @@
 
 **Purpose:**
 
-1. Inside your `Bootstrap-Portfolio` repo, create `index.html`, `portfolio.html` and `contact.html`.
-
-2. Using Bootstrap, recreate your portfolio site with the following items:
+Using Bootstrap, recreate my portfolio site with the following items:
 
    * A navbar
 
@@ -13,3 +11,7 @@
      * eg. On `xs` and `sm` screens, content should take up the entire screen. On `md` and larger screens, you should have some margins on the left and right side of the screen. Check out various sites on your mobile device versus your computer to see this in action!
 
    * Responsive images
+
+**Link:**
+
+https://carlocabrera.github.io/bootstrap-portfolio-redo/
